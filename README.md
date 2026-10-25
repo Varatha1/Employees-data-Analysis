@@ -80,8 +80,8 @@ File: [`Hr_data.pbix`](Hr_data.pbix)
 - 41.06% of employees work remotely
 
 ## Dashboard Preview
-> Add a screenshot: upload an image to the repo and link it, e.g. `!<img width="1183" height="676" alt="HR_data" src="https://github.com/user-attachments/assets/8d077537-be21-48ee-bff1-0de007588483" />
-`
+> Add a screenshot: upload an image to the repo and link it, e.g. <img width="1183" height="676" alt="HR_data" src="https://github.com/user-attachments/assets/626ac354-104c-4b00-91c3-e42bda531095" />
+
 
 ## Repository Structure
 ```
